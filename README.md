@@ -1,2 +1,0 @@
-# CoinFolio
-CoinGecko clone
